@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Res/c_bb.png</file>
+        <file>Res/c_bk.png</file>
+        <file>Res/c_bn.png</file>
+        <file>Res/c_bp.png</file>
+        <file>Res/c_bq.png</file>
+        <file>Res/c_br.png</file>
+        <file>Res/c_wb.png</file>
+        <file>Res/c_wk.png</file>
+        <file>Res/c_wn.png</file>
+        <file>Res/c_wp.png</file>
+        <file>Res/c_wq.png</file>
+        <file>Res/c_wr.png</file>
+        <file>Res/Chess_Icon.png</file>
+        <file>Res/Menu_background.jpg</file>
+    </qresource>
+</RCC>
