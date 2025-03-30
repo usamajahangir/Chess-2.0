@@ -2,10 +2,11 @@
 
 //////////////////  Developers  ////////////////////
 //                                                //
-//  Usama Jahangir     295503     DE-41-MTS-A     //
-//  Wajid Ali          285591     DE-41-MTS-A     //
+//  Usama Jahangir   - Lead Developer             //
+//  Wajid Ali        - Co-Developer               //
 //                                                //
 ////////////////////////////////////////////////////
+
 
 // The project is based of the my own Chess project for FOP in 2nd Semester
 // This project include just the algorithm from the Chess 1.0 (My old Chess)
